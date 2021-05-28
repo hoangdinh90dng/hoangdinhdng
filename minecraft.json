@@ -1,0 +1,103 @@
+{
+	"percent_show_ins": 100,
+	"ins1": "755370038751450_755375612084226",
+	"ins2": "755370038751450_755375762084211",
+	"ins3": "755370038751450_755375885417532",
+	"ins4": "755370038751450_755376005417520",
+	"ins5": "755370038751450_755370098751444",
+	"banner1": "755370038751450_755370102084777",
+	"banner2": "755370038751450_755377365417384",
+	"banner3": "755370038751450_755377582084029",
+	"banner4": "755370038751450_755377615417359",
+	"banner5": "755370038751450_755377685417352",
+	"banner6": "755370038751450_755377778750676",
+	"banner7": "755370038751450_755377828750671",
+	"banner8": "755370038751450_755378192083968",
+	"banner9": "755370038751450_755378578750596",
+	"banner10": "755370038751450_755378655417255",
+	"tou": "",
+	"BasicRecipes": [{
+		"id": 1,
+		"image": "https://user-images.githubusercontent.com/84432235/119781159-e51b4780-bef4-11eb-8ecd-5083814cea33.PNG",
+		"name": "Chest",
+		"info": "A chest is used to store items or blocks. It looks similar to your inventory. Chests can hold up to 27 stacks of either blocks or items. If two chests are placed side by side, it becomes a double chest. Double chests can hold the double amont of one chest, which is 54 stacks.",
+		"ingredients": "Wood Planks"
+	}],
+	"ToolRecipes": [{
+		"id": 1,
+		"image": "https://user-images.githubusercontent.com/84432235/119810836-a09da500-bf10-11eb-98bf-742eb1bb535d.PNG",
+		"name": "Axes",
+		"info": "Used to chop wood and pumpkins, faster than by hand.",
+		"ingredients": "Sticks + Wood Planks or Cobblestone or Iron Ingots or Gold Ingots or Diamonds"
+	}],
+	"WeaponRecipes": [{
+		"id": 1,
+		"image": "https://user-images.githubusercontent.com/84432235/119812705-9f6d7780-bf12-11eb-983c-634544950c38.PNG",
+		"name": "Arrow",
+		"info": "Arrows can be used as ammunition for a bow or dispenser. Deals damage to players and creatures when they hit.",
+		"ingredients": "Flint + Stick + Feather"
+	}],
+	"ArmorRecipes": [{
+		"id": 1,
+		"image": "https://user-images.githubusercontent.com/84432235/119812993-f70be300-bf12-11eb-9353-60c3d696851a.PNG",
+		"name": "Boots",
+		"info": "Foot armor that adds extra protection against attacks, falling, fire and drowning.",
+		"ingredients": "Leather or Gold Ingots or Iron Ingots or Fire or Diamonds"
+	}],
+	"ManufacturedRecipes": [{
+		"id": 1,
+		"image": "https://user-images.githubusercontent.com/84432235/119813282-47834080-bf13-11eb-8631-3e826202a352.PNG",
+		"name": "Andesite",
+		"info": "Andesite is a type of igneous rock. Andesite can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing. Used as decoration.",
+		"ingredients": "Diorite + Cobblestone"
+	}],
+	"TransportationRecipes": [{
+		"id": 1,
+		"image": "https://user-images.githubusercontent.com/84432235/119813480-874a2800-bf13-11eb-8314-c8f38e309f53.PNG",
+		"name": "Activator Rail",
+		"info": "Used to activate TNT Minecarts or Minecarts with Hoppers.",
+		"ingredients": "Iron Ingots + Sticks + Redstone Torch"
+	}],
+	"MechanismRecipes": [{
+		"id": 1,
+		"image": "https://user-images.githubusercontent.com/84432235/119813783-e0b25700-bf13-11eb-8156-753ef70a4b47.PNG",
+		"name": "Daylight Sensor",
+		"info": "Sends out a redstone signal during sunlight. The signal strenght depends on the sunlight intensity.",
+		"ingredients": "Glass + Nether Quartz + Wood Slabs"
+	}],
+	"FoodRecipes": [{
+		"id": 1,
+		"image": "https://user-images.githubusercontent.com/84432235/119814000-1fe0a800-bf14-11eb-8691-60329cd4516f.PNG",
+		"name": "Beetroot Soup",
+		"info": "Beetroot soup can be eaten to restore 6 hunger and 7.2 hunger saturation. Beetroot soup is a liquid food item in the Pocket and PC edition.",
+		"ingredients": "Bowl + Beetroot"
+	}],
+	"MiscellaneousRecipes": [{
+		"id": 1,
+		"image": "https://user-images.githubusercontent.com/84432235/119814219-5a4a4500-bf14-11eb-9c64-6945dc43a964.PNG",
+		"name": "Armor Stand",
+		"info": "Armor Stands are entities that are able to hold and display wearable items. Can display armor, mob heads or pumpkins.",
+		"ingredients": "Stone Slab + Stick"
+	}],
+	"EnchantmentAndBrewingRecipes": [{
+		"id": 1,
+		"image": "https://user-images.githubusercontent.com/84432235/119814534-b6ad6480-bf14-11eb-8ceb-c952a40b1afc.PNG",
+		"name": "Blaze Powder",
+		"info": "Can be combined with an Ender Pearl to make an Eye of Ender. Can also be used to craft Magma Cream, Fire charges and Potions of Strength.",
+		"ingredients": "Blaze Rod"
+	}],
+	"DyeRecipes": [{
+		"id": 1,
+		"image": "https://user-images.githubusercontent.com/84432235/119815196-7bf7fc00-bf15-11eb-9f1d-fb3706899434.PNG",
+		"name": "Bone Meal",
+		"info": "Bone Meal or white dye, is used to color wool or sheeps light white.",
+		"ingredients": "Bone"
+	}],
+	"WoolRecipes": [{
+		"id": 1,
+		"image": "https://user-images.githubusercontent.com/84432235/119815603-ed37af00-bf15-11eb-83df-1c8e54d081f5.PNG",
+		"name": "Black Wool",
+		"info": "Used as decoration or building material.",
+		"ingredients": "Wool + Inc Sack"
+	}]
+}
