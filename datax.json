@@ -1,0 +1,117 @@
+{
+  "percent_show_ins": 100,
+  "ins1": "",
+  "ins2": "",
+  "ins3": "",
+  "ins4": "",
+  "ins5": "",
+  "banner1": "",
+  "banner2": "",
+  "banner3": "",
+  "banner4": "",
+  "banner5": "",
+  "banner6": "",
+  "banner7": "",
+  "banner8": "",
+  "banner9": "",
+  "banner10": "",
+  "tou": "",
+  "characters": [
+    {
+      "id": 1,
+      "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/characters/1.jpg",
+      "aimage": "https://nextgent.s3.us-west-1.amazonaws.com/ff/characters/1a.jpg",
+      "name": "Dasha",
+      "sex": "female",
+      "age": 25,
+      "birthDate": "Dec 08th",
+      "info": "Dasha was a very happy and productive child but then a series of unfortunate events came into her life. Her parents died, her best friend moved away, her foster family was terrible to her and her country was on the brink of war. She felt betrayed, mistreated and abused by people and the system. When she was 18 she had to make a choice: fight for survival, let her past destroy her or to let it all go and have fun. She chose the third option, using fun as a weapon to take back her life.",
+      "ability": {
+        "name": "Partying On",
+        "desc": "Reduce damage taken and recovery time from falls. Reduce rate of recoil buildup and maximum recoil."
+      }
+    }
+  ],
+  "weapons": [
+    {
+      "id": 1,
+      "name": "RGS50",
+      "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/weapons/1.jpg",
+      "dan": 3,
+      "property1": 90,
+      "property2": 100,
+      "property3": 3,
+      "property4": 65,
+      "property5": 27,
+      "property6": 62,
+      "property7": 90,
+      "property8": 0,
+      "attachable": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "desc": "The anti-materiel Launcher (AML) can lock on to vehicles. However, it does less damage to non-vehicle units.",
+      "attribute": [
+        "AREA OF EFFECT",
+        "RARE"
+      ],
+      "type": "LAUNCHER"
+    }
+  ],
+  "maps": [
+    {
+      "id": 1,
+      "name": "Kalahari",
+      "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/maps/1.jpg",
+      "desc": "Free Fire is an eventful game, adding more and more features to each patch. Any player who is familiar with this Battle Royale’s series of events that take place while playing knows some of these events. However, those knew might not know what they are stepping into. This guide will list, explain, and give tips on Map Events in Free Fire that take place while you are playing the game."
+    }
+  ],
+  "guides": [
+    {
+      "id": 1,
+      "title": "The Right Character Choice",
+      "content": "As your progress through the game, you unlock various characters that you can choose to play as. Each of these characters come with a special ability that can give you the edge in battle. All you need to do is know the type of gameplay you prefer and choose a character accordingly. ",
+      "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/guides/1.jpeg"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "name": "Sports Car",
+      "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/vehicles/1.jpg",
+      "desc": "The Sports Car is probably the best looking vehicle in the game – and also the fastest. It can carry up to 2 players. Overall, this car is one of the top choices you could get in a solo match – it unrivaled speed could help you rotate to literally anywhere on the map without fail. The fact that it can reach top speed faster would also increase the damage it deals when you crash into people.",
+      "property1": 400,
+      "property2": 4600,
+      "property3": 20,
+      "property4": 80
+    }
+  ],
+  "recipes":[
+    {
+		"id": 1,
+		"type": "BasicRecipes",
+		"image": "https://user-images.githubusercontent.com/84432235/119781159-e51b4780-bef4-11eb-8ecd-5083814cea33.PNG",
+		"name": "Chest",
+		"info": "A chest is used to store items or blocks. It looks similar to your inventory. Chests can hold up to 27 stacks of either blocks or items. If two chests are placed side by side, it becomes a double chest. Double chests can hold the double amont of one chest, which is 54 stacks.",
+		"ingredients": "Wood Planks"
+	},{
+		"id": 1,
+		"type": "ToolRecipes",
+		"image": "https://user-images.githubusercontent.com/84432235/119810836-a09da500-bf10-11eb-98bf-742eb1bb535d.PNG",
+		"name": "Axes",
+		"info": "Used to chop wood and pumpkins, faster than by hand.",
+		"ingredients": "Sticks + Wood Planks or Cobblestone or Iron Ingots or Gold Ingots or Diamonds"
+	},{
+		"id": 1,
+		"type": "WeaponRecipes",
+		"image": "https://user-images.githubusercontent.com/84432235/119812705-9f6d7780-bf12-11eb-983c-634544950c38.PNG",
+		"name": "Arrow",
+		"info": "Arrows can be used as ammunition for a bow or dispenser. Deals damage to players and creatures when they hit.",
+		"ingredients": "Flint + Stick + Feather"
+	}
+    ]
+}
