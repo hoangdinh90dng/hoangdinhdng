@@ -42,10 +42,7 @@
             "property2": 100,
             "property3": 3,
             "property4": 65,
-            "property5": 27,
-            "property6": 62,
-            "property7": 90,
-            "property8": 0,
+    
             "attachable": [
                 false,
                 false,
@@ -60,6 +57,31 @@
                 "RARE"
             ],
             "type": "LAUNCHER"
+        },
+        {
+            "id": 2,
+            "name": "Wooden",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Wooden.PNG",
+            "dan": 3,
+            "property1": 4,
+            "property2": 6.5,
+            "property3": 60,
+            "property4": 240,
+          
+            "attachable": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "desc": "For a wooden sword, you can use planks from any of the wood types in the game. You can get these by mining any tree and getting their wood. Then create 2 planks from the wood blocks. Here are the stats for the wooden sword.",
+            "attribute": [
+                "",
+                ""
+            ],
+            "type": "Swords"
         }
     ],
     "maps": [
