@@ -1,0 +1,1003 @@
+{
+    "percent_show_ins": 100,
+    "ins1": "",
+    "ins2": "",
+    "ins3": "",
+    "ins4": "",
+    "ins5": "",
+    "banner1": "",
+    "banner2": "",
+    "banner3": "",
+    "banner4": "",
+    "banner5": "",
+    "banner6": "",
+    "banner7": "",
+    "banner8": "",
+    "banner9": "",
+    "banner10": "",
+    "tou": "",
+    "characters": [
+        {
+            "id": 1,
+            "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/characters/1.jpg",
+            "aimage": "https://nextgent.s3.us-west-1.amazonaws.com/ff/characters/1a.jpg",
+            "name": "Dasha",
+            "sex": "female",
+            "age": 25,
+            "birthDate": "Dec 08th",
+            "info": "Dasha was a very happy and productive child but then a series of unfortunate events came into her life. Her parents died, her best friend moved away, her foster family was terrible to her and her country was on the brink of war. She felt betrayed, mistreated and abused by people and the system. When she was 18 she had to make a choice: fight for survival, let her past destroy her or to let it all go and have fun. She chose the third option, using fun as a weapon to take back her life.",
+            "ability": {
+                "name": "Partying On",
+                "desc": "Reduce damage taken and recovery time from falls. Reduce rate of recoil buildup and maximum recoil."
+            }
+        }
+    ],
+    "weapons": [
+        {
+            "id": 1,
+            "name": "RGS50",
+            "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/weapons/1.jpg",
+            "dan": 3,
+            "property1": 90,
+            "property2": 100,
+            "property3": 3,
+            "property4": 65,
+            "property5": 27,
+            "property6": 62,
+            "property7": 90,
+            "property8": 0,
+            "attachable": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "desc": "The anti-materiel Launcher (AML) can lock on to vehicles. However, it does less damage to non-vehicle units.",
+            "attribute": [
+                "AREA OF EFFECT",
+                "RARE"
+            ],
+            "type": "LAUNCHER"
+        }
+    ],
+    "maps": [
+        {
+            "id": 1,
+            "name": "Kalahari",
+            "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/maps/1.jpg",
+            "desc": "Free Fire is an eventful game, adding more and more features to each patch. Any player who is familiar with this Battle Royale\u2019s series of events that take place while playing knows some of these events. However, those knew might not know what they are stepping into. This guide will list, explain, and give tips on Map Events in Free Fire that take place while you are playing the game."
+        }
+    ],
+    "guides": [
+        {
+            "id": 1,
+            "title": "The Right Character Choice",
+            "content": "As your progress through the game, you unlock various characters that you can choose to play as. Each of these characters come with a special ability that can give you the edge in battle. All you need to do is know the type of gameplay you prefer and choose a character accordingly. ",
+            "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/guides/1.jpeg"
+        }
+    ],
+    "vehicles": [
+        {
+            "id": 1,
+            "name": "Sports Car",
+            "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/vehicles/1.jpg",
+            "desc": "The Sports Car is probably the best looking vehicle in the game \u2013 and also the fastest. It can carry up to 2 players. Overall, this car is one of the top choices you could get in a solo match \u2013 it unrivaled speed could help you rotate to literally anywhere on the map without fail. The fact that it can reach top speed faster would also increase the damage it deals when you crash into people.",
+            "property1": 400,
+            "property2": 4600,
+            "property3": 20,
+            "property4": 80
+        }
+    ],
+    "recipes": 
+    [
+        {
+            "name": "BasicRecipes",
+            "info": [
+                {
+                    "id": 1,
+                    "image": "https://user-images.githubusercontent.com/84432235/119781159-e51b4780-bef4-11eb-8ecd-5083814cea33.PNG",
+                    "name": "Chest",
+                    "info": "A chest is used to store items or blocks. It looks similar to your inventory. Chests can hold up to 27 stacks of either blocks or items. If two chests are placed side by side, it becomes a double chest. Double chests can hold the double amont of one chest, which is 54 stacks.",
+                    "ingredients": "Wood Planks"
+                },
+                {
+                    "id": 2,
+                    "image": "https://user-images.githubusercontent.com/84432235/120275718-f345db00-c2db-11eb-9ed5-afdf3c441bea.PNG",
+                    "name": "Crafting Table",
+                    "info": "The crafting table, sometimes called workbench, is one of the key ingredients in Minecraft. It provides you with the 3x3 crafting grid, which you need for almost any recipe. When placed on the ground, you just right-click the crafting table to bring up the crafting grid.",
+                    "ingredients": "Wood Planks"
+                },
+                {
+                    "id": 3,
+                    "image": "https://user-images.githubusercontent.com/84432235/120275982-4b7cdd00-c2dc-11eb-9895-ad719d90b032.PNG",
+                    "name": "Furnace",
+                    "info": "TFurnaces or sometimes called ovens, can be used to smelt things and cook food. For example it can smelt iron ores into iron. To use, place the furnace somewhere and right-click it. You will need fuel to heat up the furnace. Wood, coal and other things like that, can be used as fuel.",
+                    "ingredients": "Cobblestone"
+                },
+                {
+                    "id": 4,
+                    "image": "https://user-images.githubusercontent.com/84432235/120276132-8121c600-c2dc-11eb-864b-edd3b784d288.PNG",
+                    "name": "Stick",
+                    "info": "Sticks are used in various crafting recipes, for example weapons, tools, torches and signs. Two wood planks gives you four sticks.",
+                    "ingredients": "Wood Planks"
+                },
+                {
+                    "id": 5,
+                    "image": "https://user-images.githubusercontent.com/84432235/120276372-cb0aac00-c2dc-11eb-8dbe-aa6570d0e511.PNG",
+                    "name": "Torches",
+                    "info": "Torches creates a permanent light when placed on walls or other suitable surfaces. Light keeps evil mobs from spawning.",
+                    "ingredients": "Stick + Coal"
+                },
+                {
+                    "id": 6,
+                    "image": "https://user-images.githubusercontent.com/84432235/120276505-fa211d80-c2dc-11eb-9f65-b442edfa35e8.PNG",
+                    "name": "Wood Planks",
+                    "info": "Wood planks are crafted from wood. Wood planks are very common, because of the high occurrence of wood in any biome. Wood planks are used in many crafting recipes. As with wood, wood planks catch fire very easily.",
+                    "ingredients": "Wood (regular, birch or pine)"
+                }
+            ]
+        },
+        {
+            "name": "ToolRecipes",
+            "info": [
+                {
+                    "id": 1,
+                    "image": "https://user-images.githubusercontent.com/84432235/119810836-a09da500-bf10-11eb-98bf-742eb1bb535d.PNG",
+                    "name": "Axes",
+                    "info": "Used to chop wood and pumpkins, faster than by hand.",
+                    "ingredients": "Sticks + Wood Planks or Cobblestone or Iron Ingots or Gold Ingots or Diamonds"
+                },
+                {
+                    "id": 2,
+                    "image": "https://user-images.githubusercontent.com/84432235/120276838-6a2fa380-c2dd-11eb-817f-ba6b270317db.PNG",
+                    "name": "Bucket",
+                    "info": "Used to carry water, lava or milk. Water and lava can be gathered from water or lava blocks, that are not running. Milk can be obtained by clicking on a cow with the bucket.",
+                    "ingredients": "Iron Ingots"
+                },
+                {
+                    "id": 3,
+                    "image": "https://user-images.githubusercontent.com/84432235/120276995-a82cc780-c2dd-11eb-8d3e-a691bd605f8d.PNG",
+                    "name": "Carrot on a Stick",
+                    "info": "Used while riding pigs to control them. The direction the carrot dangles is the direction the pig will go. The pig will run faster if the player right clicks while holding the stick.",
+                    "ingredients": "Fishing Rod + Carrot"
+                },
+                {
+                    "id": 4,
+                    "image": "https://user-images.githubusercontent.com/84432235/120277138-e0340a80-c2dd-11eb-9093-1c5fb1d0dcdc.PNG",
+                    "name": "Clock",
+                    "info": "Clocks are items that display the current in-game time. It is done by displaying the sun and the moon's position, relative to the horizon.",
+                    "ingredients": "Gold Ingots + Compass"
+                },
+                {
+                    "id": 5,
+                    "image": "https://user-images.githubusercontent.com/84432235/120277304-13769980-c2de-11eb-92aa-7b6a5113036a.PNG",
+                    "name": "Compass",
+                    "info": "The compass will always point to your original spawn point. Can't be used in The Nether or in The End.",
+                    "ingredients": "Iron Ingots + Redstone Dust"
+                },
+                {
+                    "id": 6,
+                    "image": "https://user-images.githubusercontent.com/84432235/120277435-3ef98400-c2de-11eb-8e47-5bb97a311aed.PNG",
+                    "name": "Fishing Rod",
+                    "info": "Used to catch fish. You can also use them to grab movable objects and drag them towards yourself. Rods have 33 uses (durability).",
+                    "ingredients": "Sticks + Strings"
+                },
+                {
+                    "id": 7,
+                    "image": "https://user-images.githubusercontent.com/84432235/120277610-77995d80-c2de-11eb-9bd6-278425fcc596.PNG",
+                    "name": "Flint and Steel",
+                    "info": "Used to create fire. Can set blocks or creatures on fire.",
+                    "ingredients": "Iron Ingot + Flint"
+                },
+                {
+                    "id": 8,
+                    "image": "https://user-images.githubusercontent.com/84432235/120277783-ae6f7380-c2de-11eb-84d2-580426884f40.PNG",
+                    "name": "Hoes",
+                    "info": "Used to till dirt and grass into farmland for crops. There is a chance that seeds will drop, when you till grass blocks.",
+                    "ingredients": "Sticks + Wood Planks or Cobblestone or Iron Ingots or Gold Ingots or Diamonds"
+                },
+                {
+                    "id": 9,
+                    "image": "https://user-images.githubusercontent.com/84432235/120278004-f4c4d280-c2de-11eb-8adf-ff9941e0f5a9.PNG",
+                    "name": "Map",
+                    "info": "The Map is used to view explored terrain. While a map is being held in the player's hand, it will gradually be drawn as the player explores the world.",
+                    "ingredients": "Paper + Compass"
+                },
+                {
+                    "id": 10,
+                    "image": "https://user-images.githubusercontent.com/84432235/120278159-1f169000-c2df-11eb-93b5-f87a458ab519.PNG",
+                    "name": "Pickaxes",
+                    "info": "Used to mine ore and blocks. Only Iron and Diamond Pickaxes can mine all ores and blocks. Diamond is the strongest pickaxe.",
+                    "ingredients": "Sticks + Wood Planks or Cobblestone or Iron Ingots or Gold Ingots or Diamonds"
+                },
+                {
+                    "id": 11,
+                    "image": "https://user-images.githubusercontent.com/84432235/120278301-51c08880-c2df-11eb-8a5e-5a367f129a93.PNG",
+                    "name": "Shears",
+                    "info": "Tools used to obtain wool from sheeps, leaves from trees, Red Mushrooms from Mushrooms or to get string from cobwebs.",
+                    "ingredients": "Iron Ingots"
+                },
+                {
+                    "id": 12,
+                    "image": "https://user-images.githubusercontent.com/84432235/120278424-7583ce80-c2df-11eb-8ca2-8842c392b8e9.PNG",
+                    "name": "Shovels",
+                    "info": "Used to effectively dig sand, dirt, gravel, snow and clay. Required to dig snowballs.",
+                    "ingredients": "Sticks + Wood Planks or Cobblestone or Iron Ingots or Gold Ingots or Diamonds"
+                },
+            ]
+        },
+        {
+            "name": "WeaponRecipes",
+            "info": [
+                {
+                    "id": 1,
+                    "image": "https://user-images.githubusercontent.com/84432235/119812705-9f6d7780-bf12-11eb-983c-634544950c38.PNG",
+                    "name": "Arrow",
+                    "info": "Arrows can be used as ammunition for a bow or dispenser. Deals damage to players and creatures when they hit.",
+                    "ingredients": "Flint + Stick + Feather"
+                },
+                {
+                    "id": 2,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/bow.PNG",
+                    "name": "Bow",
+                    "info": "Ranged weapon used to fire arrows. To use the bow you must have arrows in your inventory.",
+                    "ingredients": "Sticks + String"
+                },
+                {
+                    "id": 3,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/DamagedShield.PNG",
+                    "name": "Damaged Shield",
+                    "info": "The durability of two shields is added together, plus an extra 5% durability. The repaired shield has no pattern.",
+                    "ingredients": "Damaged Shield"
+                },
+                {
+                    "id": 4,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/PatternedShield.PNG",
+                    "name": "Patterned Shield",
+                    "info": "Applies the banner pattern to the shield. The banner is consumed. The shield must have no preexisting patterns. Repairs the shield to full durability at the same time.",
+                    "ingredients": "Shield + Any Banner"
+                },
+                {
+                    "id": 5,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Shield.PNG",
+                    "name": "Shield",
+                    "info": "Shields are used to block incoming attacks. When a shield blocks an attack, it will take damage. Blockable attacks include mob melee attacks, thrown items such as snowballs, arrows, damage from Thorns, some explosions and fireballs.",
+                    "ingredients": "Any Wood Planks + Iron Ingot"
+                },
+                {
+                    "id": 6,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/SpectralArrow.PNG",
+                    "name": "Spectral Arrow",
+                    "info": "Spectral arrows imbues the glowing effect for 10 seconds. The glowing effect creates an outline of the target, which is visible through blocks and colored based on the targets team (default is white). If a bow is enchanted with Infinity, spectral arrows will still be consumed.",
+                    "ingredients": "Glowstone Dust + Arrow"
+                },
+                {
+                    "id": 7,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Swords.PNG",
+                    "name": "Swords",
+                    "info": "Melee weapon used to damage mobs, other player or to block attacks.",
+                    "ingredients": "Stick + Wood Planks or Cobblestone or Iron Ingots or Gold Ingots or Diamonds"
+                },
+                {
+                    "id": 8,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/TippedArrow.PNG",
+                    "name": "Tipped Arrow",
+                    "info": "Tipped arrows imbue a status effect when hitting a mob or player. The duration of the effect is 1/8 that of the corresponding potion, and is not affected by the power of the arrow. The effect is the same as the regular power effect for the potion. If a bow is enchanted with Infinity, tipped arrows will still be consumed.",
+                    "ingredients": "Any Lingering Potion + Arrow"
+                }
+            ]
+        },
+        {
+            "name": "ArmorRecipes",
+            "info": [
+                {
+                    "id": 1,
+                    "image": "https://user-images.githubusercontent.com/84432235/119812993-f70be300-bf12-11eb-9353-60c3d696851a.PNG",
+                    "name": "Boots",
+                    "info": "Foot armor that adds extra protection against attacks, falling, fire and drowning.",
+                    "ingredients": "Leather or Gold Ingots or Iron Ingots or Fire or Diamonds"
+                },
+                {
+                    "id": 2,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Chestplates.PNG",
+                    "name": "Chestplates",
+                    "info": "Chest armor that adds extra protection against attacks, falling, fire and drowning.",
+                    "ingredients": "Leather or Gold Ingots or Iron Ingots or Fire or Diamonds"
+                },
+                {
+                    "id": 3,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Helmets.PNG",
+                    "name": "Helmets",
+                    "info": "Head armor that adds extra protection against attacks, falling, fire and drowning.",
+                    "ingredients": "Leather or Gold Ingots or Iron Ingots or Fire or Diamonds"
+                },
+                {
+                    "id": 4,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Leggins.PNG",
+                    "name": "Leggins",
+                    "info": "Leg armor that adds extra protection against attacks, falling, fire and drowning.",
+                    "ingredients": "Leather or Gold Ingots or Iron Ingots or Fire or Diamonds"
+                }
+            ]
+        },
+        {
+            "name": "ManufacturedRecipes",
+            "info": [
+                {
+                    "id": 1,
+                    "image": "https://user-images.githubusercontent.com/84432235/119813282-47834080-bf13-11eb-8631-3e826202a352.PNG",
+                    "name": "Andesite",
+                    "info": "Andesite is a type of igneous rock. Andesite can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing. Used as decoration.",
+                    "ingredients": "Diorite + Cobblestone"
+                },
+                {
+                    "id": 2,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Anvil.PNG",
+                    "name": "Anvil",
+                    "info": "Used to combine enchantments and repair and rename items or blocks. Anvils are affected by gravity.",
+                    "ingredients": "Iron Blocks + Iron Ingots"
+                },
+                {
+                    "id": 3,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Beacon.PNG",
+                    "name": "Beacon",
+                    "info": "Emits a light beam that can provide temporary player buffs, when placed on a pyramid made of diamond, emerald, gold or iron blocks. Can also be used as a landmark.",
+                    "ingredients": "Glass + Nether Star + Obsidian"
+                },
+                {
+                    "id": 4,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/BlockofCoal.PNG",
+                    "name": "Block of Coal",
+                    "info": "The block of coal is a compact way to store coal, and can be used for decoration and fuel.",
+                    "ingredients": "Coal"
+                },
+                {
+                    "id": 5,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/BlockofQuartz.PNG",
+                    "name": "Block of Quartz",
+                    "info": "Blocks of Quartz are mineral blocks crafted from Nether Quartz that are used only for decoration.  ",
+                    "ingredients": "Nether Quartz"
+                },
+                {
+                    "id": 6,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/BlockofRedstone.PNG",
+                    "name": "Block of Redstone",
+                    "info": "Redstone blocks are compacted blocks can be used as a redstone power source.   ",
+                    "ingredients": "Redstone"
+                },
+                {
+                    "id": 7,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/BoneBlock.PNG",
+                    "name": "Bone Block",
+                    "info": "Bone blocks are decorative blocks that can face in different directions, can also be used as compact storage for bonemeal. Bone blocks are generated naturally as part of fossil structures found in desert and swampland biomes. 1 Bone Block will give you 9 Bone Meal.  ",
+                    "ingredients": "Bone Meal"
+                },
+                 {
+                    "id": 8,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Bookshelf.PNG",
+                    "name": "Bookshelf",
+                    "info": "Used as decoration or to give an Enchantment Table, a boost for better enchantments.   ",
+                    "ingredients": "Wood Planks + Books"
+                },
+                {
+                    "id": 9,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/BrickBlock.PNG",
+                    "name": "Brick Block",
+                    "info": "Decorative building material.  ",
+                    "ingredients": "Bricks"
+                },
+                {
+                    "id": 10,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/ChiseledQuartzBlock.PNG",
+                    "name": "Chiseled Quartz Block",
+                    "info": "Used as decorative building material.  ",
+                    "ingredients": "Quartz Slab"
+                },
+                {
+                    "id": 11,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/ChiseledSandstone.PNG",
+                    "name": "Chiseled Sandstone",
+                    "info": "Chiseled Sandstone is a decorative form of sandstone with a Creeper face and various small carvings on it. ",
+                    "ingredients": "Sandstone Slab or Red Sandstone Slab."
+                }
+            ]
+        },
+        {
+            "name": "TransportationRecipes",
+            "info": [
+                {
+                    "id": 1,
+                    "image": "https://user-images.githubusercontent.com/84432235/119813480-874a2800-bf13-11eb-8314-c8f38e309f53.PNG",
+                    "name": "Activator Rail",
+                    "info": "Used to activate TNT Minecarts or Minecarts with Hoppers.",
+                    "ingredients": "Iron Ingots + Sticks + Redstone Torch"
+                },
+                {
+                    "id": 2,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Boat.PNG",
+                    "name": "Boat",
+                    "info": "Vehicle that enables you to travel in water, faster than swimming. ",
+                    "ingredients": "Wood Planks"
+                },
+                {
+                    "id": 3,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/DetectorRail.PNG",
+                    "name": "Detector Rail",
+                    "info": "Functions like a Pressure Plate, it sends a Redstone signal when powered. Can only be activated by a minecart. ",
+                    "ingredients": "Stone Pressure Plate + Iron Ingots + Redstone"
+                },
+                {
+                    "id": 4,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Minecart.PNG",
+                    "name": "Minecart",
+                    "info": "Rideable objects used for transporting players or mobs along minetracks.   ",
+                    "ingredients": "Iron Ingots"
+                },
+                {
+                    "id": 5,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MinecartwithChest.PNG",
+                    "name": "Minecart with Chest",
+                    "info": "Used to transport goods and items along rails. ",
+                    "ingredients": "Chest + Minecart"
+                },
+                {
+                    "id": 6,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MinecartwithHopper.PNG",
+                    "name": "Minecart with Hopper",
+                    "info": "Minecart that moves items in and out of chests in the same way as a normal hopper. ",
+                    "ingredients": "Hopper + Minecart"
+                },
+                {
+                    "id": 7,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MinecartwithTNT.PNG",
+                    "name": "Minecart with TNT",
+                    "info": "Minecart with TNT that explodes when triggered by a activator rail or when it is hit.  ",
+                    "ingredients": "TNT + Minecart"
+                },
+                {
+                    "id": 8,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/PoweredMinecart.PNG",
+                    "name": "Powered Minecart",
+                    "info": "Minecarts with Furnace can be used to push other minecarts. You need fuel to power this minecart.  ",
+                    "ingredients": "Furnace + Minecart"
+                },
+                {
+                    "id": 9,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/PoweredRail.PNG",
+                    "name": "Powered Rail",
+                    "info": "Non solid block that is used to stop or increase momentum of moving minecarts. Powered Rails are powered by Redstone currents. Whether this comes from a Redstone Torch, a Lever, a Button, another circuit, or a Detector Rail does not matter.   ",
+                    "ingredients": "Stick + Gold Ingots + Redstone"
+                },
+                {
+                    "id": 10,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Rails.PNG",
+                    "name": "Rails",
+                    "info": "Rails are minecart tracks where minecart vehicles can travel along.",
+                    "ingredients": "Stick + Iron Ingots"
+                }
+            ]
+        },
+         {
+            "name": "MechanismRecipes",
+            "info": [
+                {
+                    "id": 1,
+                    "image": "https://user-images.githubusercontent.com/84432235/119813783-e0b25700-bf13-11eb-8156-753ef70a4b47.PNG",
+                    "name": "Daylight Sensor",
+                    "info": "Sends out a redstone signal during sunlight. The signal strenght depends on the sunlight intensity.",
+                    "ingredients": "Glass + Nether Quartz + Wood Slabs"
+                },
+                {
+                    "id": 2,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Dispenser.PNG",
+                    "name": "Dispenser",
+                    "info": "Dispensers can store 9 stacks of items or blocks in a 3x3 grid. When powered by a Redstone charge, it ejects the items in random order. Snowballs, eggs, fireworks and arrows are fired out as projectiles.  ",
+                    "ingredients": "Cobblestone + Redstone + Bow"
+                },
+                {
+                    "id": 3,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Doors.PNG",
+                    "name": "Doors",
+                    "info": "Wooden Doors can be activated by right-clicking on them or by an electrical redstone signal. Iron Doors on the other hand, can only be activated by an electrical redstone signal. ",
+                    "ingredients": "Wood Planks or Iron Ingots"
+                },
+                {
+                    "id": 4,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Dropper.PNG",
+                    "name": "Dropper",
+                    "info": "Block that drops an item from it's inventory as an entity (as if it were dropped by the player)each time it is powered. If there is a block with an inventory immediately in front of the dropper when it is powered, it will instead store the item within th    ",
+                    "ingredients": "Cobblestone + Redstone"
+                },
+                {
+                    "id": 5,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Hopper.PNG",
+                    "name": "Hopper",
+                    "info": "Moves items in and out of chests, dispensers and other blocks that can hold items. ",
+                    "ingredients": "Iron Ingots + Chest"
+                },
+                {
+                    "id": 6,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/IronTrapdoor.PNG",
+                    "name": "Iron Trapdoor",
+                    "info": "A trapdoor is a non-solid block that can be used as an openable barrier. Iron trapdoors are activated by redstone. ",
+                    "ingredients": "Iron Ingots"
+                },
+                {
+                    "id": 7,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Jukebox.PNG",
+                    "name": "Jukebox",
+                    "info": "Used to play music discs. Right-click the jukebox with a music disc selected to play it.   ",
+                    "ingredients": "Wood Planks + Diamond"
+                },
+                {
+                    "id": 8,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Lever.PNG",
+                    "name": "Lever",
+                    "info": "Sends an electrical signal when switched to the on position. Stays in its current state, unless it is clicked again.",
+                    "ingredients": "Cobblestone + Stick"
+                },
+                {
+                    "id": 9,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/NoteBlock.PNG",
+                    "name": "Note Block",
+                    "info": "Plays a note when used or powered by redstone. Right click it to change the pitch of the note. A different instrument is played depending on the type of block it is placed on.    ",
+                    "ingredients": "Wood Planks + Redstone"
+                },
+                {
+                    "id": 10,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Piston.PNG",
+                    "name": "Piston",
+                    "info": "Pushes blocks or entities 1 space forward. Can also move players and mobs. Activated by redstone circuits. ",
+                    "ingredients": "Wood Planks + Cobblestone + Iron Ingot + Redstone"
+                },
+                {
+                    "id": 11,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/PressurePlates.PNG",
+                    "name": "Pressure Plates",
+                    "info": "Triggers an electrical charge, when a player or mob walks on it. Wood Pressure Plates are also activated when something is dropped on them.    ",
+                    "ingredients": "Stone or Wood Planks"
+                },
+                {
+                    "id": 12,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/RedstoneComparator.PNG",
+                    "name": "Redstone Comparator",
+                    "info": "Function similar to redstone repeaters. However, instead of one signal, the comparator receives two signals.   ",
+                    "ingredients": "Redstone Torches + Nether Quartz + Stone"
+                }
+            ]
+        },
+        {
+            "name": "FoodRecipes",
+            "info": [
+                {
+                    "id": 1,
+                    "image": "https://user-images.githubusercontent.com/84432235/119814000-1fe0a800-bf14-11eb-8691-60329cd4516f.PNG",
+                    "name": "Beetroot Soup",
+                    "info": "Beetroot soup can be eaten to restore 6 hunger and 7.2 hunger saturation. Beetroot soup is a liquid food item in the Pocket and PC edition.",
+                    "ingredients": "Bowl + Beetroot"
+                },
+                {
+                    "id": 2,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Bowl.PNG",
+                    "name": "Bowl",
+                    "info": "Used to hold mushroom stew and to milk a Mooshroom cow.    ",
+                    "ingredients": "Wood Planks"
+                },
+                {
+                    "id": 3,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Bread.PNG",
+                    "name": "Bread",
+                    "info": "Eat to restore hunger. Restores 2.5 hunger points. ",
+                    "ingredients": "Wheat"
+                },
+                {
+                    "id": 4,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Cake.PNG",
+                    "name": "Cake",
+                    "info": "Restores 1 hunger point per use for a total of 6 uses. Returns empty buckets when crafted. Must be placed to eat.  ",
+                    "ingredients": "Milk + Sugar + Egg + Wheat"
+                },
+                {
+                    "id": 5,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Cookie.PNG",
+                    "name": "Cookie",
+                    "info": "Eat to restore hunger. Restores 1 hunger point.    ",
+                    "ingredients": "Wheat + Cocoa Beans"
+                },
+                {
+                    "id": 6,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/EnchantedGoldenApple.PNG",
+                    "name": "Enchanted Golden Apple",
+                    "info": "Eat to restore hunger. Restores 2 hunger points and regenerate health for 30 seconds. It also gives resistance and fire resistance for 5 minutes.  ",
+                    "ingredients": "Apple + Gold Blocks"
+                },
+                {
+                    "id": 7,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/GoldenApple.PNG",
+                    "name": "Golden Apple",
+                    "info": "Eat to restore hunger. Restores 2 hunger points and regenerates health temporarily.    ",
+                    "ingredients": "Apple + Gold Ingots"
+                },
+                {
+                    "id": 8,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/GoldenCarrot.PNG",
+                    "name": "Golden Carrot",
+                    "info": "Eat to restore hunger. Restores 4 hunger points. Golden Carrot is also used in some brewing recipes.   ",
+                    "ingredients": "Carrot + Gold Nuggets"
+                },
+                {
+                    "id": 9,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MelonSeeds.PNG",
+                    "name": "Melon Seeds",
+                    "info": "Plantable on farmland. Will produce one Melon Block each harvest.  ",
+                    "ingredients": "Melon Slice"
+                },
+                {
+                    "id": 10,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MushroomStew.PNG",
+                    "name": "Mushroom Stew",
+                    "info": "Eat to restore hunger. Restores 3 hunger points. The bowl can reused.  ",
+                    "ingredients": "Red Mushroom + Brown Mushroom + Bowl"
+                },
+                {
+                    "id": 11,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/PumpkinPie.PNG",
+                    "name": "Pumpkin Pie",
+                    "info": "Eat to restore hunger. Restores 4 hunger points. Recipe fits within the 2x2 crafting grid of the players inventory.    ",
+                    "ingredients": "Pumpkin + Egg + Sugar"
+                },
+                {
+                    "id": 12,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/PumpkinSeeds.PNG",
+                    "name": "Pumpkin Seeds",
+                    "info": "Plantable on farmland. Will produce one Pumpkin each harvest.  ",
+                    "ingredients": "Pumpkin"
+                }
+            ]   
+        },
+        {
+            "name": "MiscellaneousRecipes",
+            "info": [
+                {
+                    "id": 1,
+                    "image": "https://user-images.githubusercontent.com/84432235/119814219-5a4a4500-bf14-11eb-9c64-6945dc43a964.PNG",
+                    "name": "Armor Stand",
+                    "info": "Armor Stands are entities that are able to hold and display wearable items. Can display armor, mob heads or pumpkins.",
+                    "ingredients": "Stone Slab + Stick"
+                },
+                {
+                    "id": 2,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Banner.PNG",
+                    "name": "Banner",
+                    "info": "Banners or Flags are tall decorative blocks, featuring a field that is highly customizable using dyes. Check out banner guide for more recipes.    ",
+                    "ingredients": "Any wool + Stick"
+                },
+                {
+                    "id": 3,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Bed.PNG",
+                    "name": "Bed",
+                    "info": "Used to change time from night to day. In SMP, all players in the Overworld must be in beds. Also changes the spawn point of the player, but compasses remains unaffected until you die and respawn.   ",
+                    "ingredients": "Wool + Wooden Planks"
+                },
+                {
+                    "id": 3,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Book.PNG",
+                    "name": "Book",
+                    "info": "Used to create book and quills, bookshelfs or an enchantment table.    ",
+                    "ingredients": "Paper + Leather"
+                },
+                {
+                    "id": 4,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/BookandQuill.PNG",
+                    "name": "Book and Quill",
+                    "info": "Books that players can write in, read and edit.    ",
+                    "ingredients": "Book + Inc Sac + Feather"
+                },
+                {
+                    "id": 5,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Carpet.PNG",
+                    "name": "Carpet",
+                    "info": "Carpets are thin like pressure plates and can be used as floor decoration. The color of the wool determines the carpet color.  ",
+                    "ingredients": "Wool"
+                },
+                {
+                    "id": 6,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/CobblestoneWall.PNG",
+                    "name": "Cobblestone Wall",
+                    "info": "Decorative block that acts in a similar way to fences. ",
+                    "ingredients": "Cobblestone or Moss Stone"
+                },
+                {
+                    "id": 7,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/EndCrystal.PNG",
+                    "name": "End Crystal",
+                    "info": "End crystals are found atop the many obsidian pillars in the End. Their primary purpose is to recharge the health of the ender dragon. When attacked or otherwise damaged in any way, they will explode. The ender crystal explosion is the same power as a charged creeper, 50% more powerful than TNT. As items, end crystals may be placed on bedrock and obsidian. If one is placed on each of the four sides of the end exit portal, the crystals will respawn the healing crystals and the dragon before exploding.  ",
+                    "ingredients": "Glass + Eye of Ender + Ghast Tear"
+                },
+                {
+                    "id": 8,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/EndRod.PNG",
+                    "name": "End Rod",
+                    "info": "End rods are decorative light sources that emit white particles. Popped Chorus Fruits can be obtained by smelting chorus fruit. End rods can be obtained by any tool or block. They will also break if run over by flowing water. End rods generate naturally all over end cities. End rods emit a light level of 14 (same as torches).    ",
+                    "ingredients": "Blaze Rod + Popped Chorus Fruit"
+                },
+                {
+                    "id": 9,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/EnderChest.PNG",
+                    "name": "Ender Chest",
+                    "info": "Used for storage like normal chests. All contents of the chest are put into all Ender Chests created, which means they access the same storage. The contents are localised to the player in SMP. If the ender chest is destroyed, none of its contents will be ",
+                    "ingredients": "Obsidian + Eye of Ender"
+                },
+                {
+                    "id": 10,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/EyeofEnder.PNG",
+                    "name": "Eye of Ender",
+                    "info": "Used to locate Strongholds, repair an End Portal bloc and craft Ender Chests. When thrown, they float towards the direction of a portal, which appear in strongholds. After a few seconds, it will drop with a chance of breaking. ",
+                    "ingredients": "Ender Pearl + Blaze Powder"
+                },
+                {
+                    "id": 11,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Fence.PNG",
+                    "name": "Fence",
+                    "info": "Used as a barrier that players and mobs cannot jump over. The only exception are spiders and spider jockeys. It is 1.5 blocks high for mobs and players, but only 1 block high to other blocks.    ",
+                    "ingredients": "Sticks + Wood Planks"
+                },
+                {
+                    "id": 12,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/FenceGate.PNG",
+                    "name": "Fence Gate",
+                    "info": "Fence gates serves as a door for a row of fences. They can be opened both inward and outwards. They are opened by right-clicking or with a redstone signal.    ",
+                    "ingredients": "Sticks + Wood Planks"
+                }
+            ]
+        },
+        {
+            "name": "EnchantmentAndBrewingRecipes",
+            "info": [
+                {
+                    "id": 1,
+                    "image": "https://user-images.githubusercontent.com/84432235/119814534-b6ad6480-bf14-11eb-8ceb-c952a40b1afc.PNG",
+                    "name": "Blaze Powder",
+                    "info": "Can be combined with an Ender Pearl to make an Eye of Ender. Can also be used to craft Magma Cream, Fire charges and Potions of Strength.",
+                    "ingredients": "Blaze Rod"
+                },
+                {
+                    "id": 2,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/BrewingStand.PNG",
+                    "name": "Brewing Stand",
+                    "info": "Brewing stands are used for brewing all kinds potions. ",
+                    "ingredients": "Blaze Rod + Cobblestone"
+                },
+                {
+                    "id": 3,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Cauldron.PNG",
+                    "name": "Cauldron",
+                    "info": "Storage of water for water bottles. They can fill glass bottles to make water bottles. Holds enough water for three water bottles. ",
+                    "ingredients": "Iron Ingots"
+                },
+                {
+                    "id": 4,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/EnchantmentTable.PNG",
+                    "name": "Enchantment Table",
+                    "info": "The enchantment table allows users to use experience levels to enchant weapons, armor, and tools.  ",
+                    "ingredients": "Book + Diamonds + Obsidian"
+                },
+                {
+                    "id": 5,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/FermentedSpiderEye.PNG",
+                    "name": "Fermented Spider Eye",
+                    "info": "Used in Potions. All potions with Fermented Spider Eye in have negative effects. This ingredient is mostly used in splash potions. ",
+                    "ingredients": "Spider Eye + Brown Mushroom + Sugar"
+                },
+                {
+                    "id": 6,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/GlassBottle.PNG",
+                    "name": "Glass Bottle",
+                    "info": "Used for brewing potions. To create a water bottle, right click on a water source with an empty bottle.    ",
+                    "ingredients": "Glass"
+                },
+                {
+                    "id": 7,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/GlisteringMelon.PNG",
+                    "name": "Glistering Melon",
+                    "info": "Used in brewing to create health restoration potions.  ",
+                    "ingredients": "Melon Slice + Gold Nuggets"
+                },
+                {
+                    "id": 8,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/GoldNugget.PNG",
+                    "name": "Gold Nugget",
+                    "info": "Used to craft Glistering Melon. Dropped by Zombie Pigman. Can be crafted into Gold Ingots. ",
+                    "ingredients": "Gold Ingot"
+                },
+                {
+                    "id": 9,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MagmaCream.PNG",
+                    "name": "Magma Cream",
+                    "info": "Used in Potions, mostly for fire resistance.   ",
+                    "ingredients": "Slimeball + Blaze Powder"
+                }
+            ]
+        },
+        {
+            "name": "DyeRecipes",
+            "info": [
+                {
+                    "id": 1,
+                    "image": "https://user-images.githubusercontent.com/84432235/119815196-7bf7fc00-bf15-11eb-9f1d-fb3706899434.PNG",
+                    "name": "Bone Meal",
+                    "info": "Bone Meal or white dye, is used to color wool or sheeps light white.",
+                    "ingredients": "Bone"
+                },
+                {
+                    "id": 2,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/CyanDye.PNG",
+                    "name": "Cyan Dye",
+                    "info": "Used to color wool or sheeps cyan. ",
+                    "ingredients": "Lapsis Lazuli + Cactus Green"
+                },
+                {
+                    "id": 3,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/DandelionYellowDye.PNG",
+                    "name": "Dandelion Yellow Dye",
+                    "info": "Used to color wool or sheeps yellow.   ",
+                    "ingredients": "Dandelion"
+                },
+                {
+                    "id": 4,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/GrayDye.PNG",
+                    "name": "Gray Dye",
+                    "info": "Used to color wool or sheep's gray.    ",
+                    "ingredients": "Ink Sac + Bone Meal"
+                },
+                {
+                    "id": 5,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/LightBlueDye.PNG",
+                    "name": "Light Blue Dye",
+                    "info": "Used to color wool or sheeps light blue.   ",
+                    "ingredients": "Lapsis Lazuli + Bone Meal"
+                },
+                {
+                    "id": 6,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/LightGrayDye.PNG",
+                    "name": "Light Gray Dye",
+                    "info": "Used to dye wool light gray. Can be made using an ink sac and two bonemeal or gray dye and bonemeal. Combining gray dye with bonemeal is better because you make 4 light gray dye from every ink sac (instead of 3).   ",
+                    "ingredients": "Ink Sack + Bone Meal or Gray Dye + Bone Meal"
+                },
+                {
+                    "id": 7,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/LimeDye.PNG",
+                    "name": "Lime Dye",
+                    "info": "Used to color wool or sheeps green.    ",
+                    "ingredients": "Cactus Green + Bone Meal"
+                },
+                {
+                    "id": 8,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MagentaDye.PNG",
+                    "name": "Magenta Dye",
+                    "info": "Used to color wool or sheeps magenta.  ",
+                    "ingredients": "Purple Dye + Pink Dye"
+                },
+                {
+                    "id": 9,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/OrangeDye.PNG",
+                    "name": "Orange Dye",
+                    "info": "Used to color wool or sheeps orange.   ",
+                    "ingredients": "Rose Red Dye + Dandelion Yellow Dye"
+                },
+                {
+                    "id": 10,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/PinkDye.PNG",
+                    "name": "Pink Dye",
+                    "info": "Used to color wool or sheeps pink. ",
+                    "ingredients": "Rose Red + Bone Meal"
+                },
+                {
+                    "id": 11,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/PurpleDye.PNG",
+                    "name": "Purple Dye",
+                    "info": "Used to color wool or sheeps purple.   ",
+                    "ingredients": "Lapsis Lazuli + Rose Red Dye"
+                },
+                {
+                    "id": 12,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/RoseRedDye.PNG",
+                    "name": "Rose Red Dye",
+                    "info": "Rose red is a primary color dye created primarily from flowers. Like all other dyes, rose red can be: 1) Applied to sheep to dye their wool, which can then be sheared for 13 blocks of rose red wool. 2) Applied to tamed wolves, to dye their collars. 3) Combined with gunpowder to make a firework star. 4) Combined with a firework star to create a fade to color effect. 5) Used to dye leather armor. 6) Used to dye wool, or stain glass or hardened clay. 7) Used to add patterns to banners. ",
+                    "ingredients": "Poppy or Red Tulip or Rose Bush or Beetroot"
+                }
+            ]
+        },
+        {
+            "name": "WoolRecipes",
+            "info": [
+                {
+                    "id": 1,
+                    "image": "https://user-images.githubusercontent.com/84432235/119815603-ed37af00-bf15-11eb-83df-1c8e54d081f5.PNG",
+                    "name": "Black Wool",
+                    "info": "Used as decoration or building material.",
+                    "ingredients": "Wool + Inc Sack"
+                },
+                {
+                    "id": 2,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/BlueWool.PNG",
+                    "name": "Blue Wool",
+                    "info": "Used as decoration or building material.   ",
+                    "ingredients": "Wool + Lapis Lazuli"
+                },
+                {
+                    "id": 3,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/BrownWool.PNG",
+                    "name": "Brown Wool",
+                    "info": "Used as decoration or building material.   ",
+                    "ingredients": "Wool + Cocoa Bean"
+                },
+                {
+                    "id": 4,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/CyanWool.PNG",
+                    "name": "Cyan Wool",
+                    "info": "Used as decoration or building material.   ",
+                    "ingredients": "Wool + Cyan Dye"
+                },
+                {
+                    "id": 5,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/GrayWool.PNG",
+                    "name": "Gray Wool",
+                    "info": "Used as decoration or building material.   ",
+                    "ingredients": "Wool + Grey Dye"
+                },
+                {
+                    "id": 6,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/GreenWool.PNG",
+                    "name": "Green Wool",
+                    "info": "Used as decoration or building material.   ",
+                    "ingredients": "Wool + Cactus Green"
+                },
+                {
+                    "id": 7,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/LightBlueWool.PNG",
+                    "name": "Light Blue Wool",
+                    "info": "Used as decoration or building material.   ",
+                    "ingredients": "Wool + Light Blue Dye"
+                },
+                {
+                    "id": 8,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/LightGrayWool.PNG",
+                    "name": "Light Gray Wool",
+                    "info": "Used as decoration or building material.   ",
+                    "ingredients": "Wool + Light Gray Dye"
+                },
+                {
+                    "id": 9,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/LimeWool.PNG",
+                    "name": "Lime Wool",
+                    "info": "Used as decoration or building material.   ",
+                    "ingredients": "Wool + Lime Dye"
+                },
+                {
+                    "id": 10,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MagentaWool.PNG",
+                    "name": "Magenta Wool ",
+                    "info": "Used as decoration or building material.   ",
+                    "ingredients": "Wool + Magenta Dye"
+                },
+                {
+                    "id": 11,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/OrangeWool.PNG",
+                    "name": "Orange Wool",
+                    "info": "Used as decoration or building material.   ",
+                    "ingredients": "Wool + Orange Dye"
+                },
+                {
+                    "id": 12,
+                    "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/PinkWool.PNG",
+                    "name": "Pink Wool",
+                    "info": "Used as decoration or building material.   ",
+                    "ingredients": "Wool + Pink Dye"
+                }
+            ]
+        },
+    ]
+}
