@@ -97,9 +97,57 @@
     "guides": [
         {
             "id": 1,
-            "title": "The Right Character Choice",
-            "content": "As your progress through the game, you unlock various characters that you can choose to play as. Each of these characters come with a special ability that can give you the edge in battle. All you need to do is know the type of gameplay you prefer and choose a character accordingly. ",
-            "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/guides/1.jpeg"
+            "title": "Breed cows animals over pigs",
+            "content": "On the off chance that you should pick among cows and pigs, pick cows animals. In spite of the fact that the two of them yield meat, cows animals will likewise yield milk and calfskin making them more valuable to you and your making venture.",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Breed.PNG"
+        },
+        {
+            "id": 2,
+            "title": "Be cautious where you Dig",
+            "content": "Digging underground in Minecraft is consistently unsafe as it can uncover magma or mines. The more awful activity is burrowed straightforwardly down. All things being equal, use stairs to try not to any burrow threats. On the off chance that you out of nowhere end up confronted with magma (lava), you can rapidly stop the stream by utilizing blocks, for example, cobblestone. ",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Becautious.PNG"
+        },
+        {
+            "id": 3,
+            "title": "Follow the sun and moon in the event that you get lost",
+            "content": "Continuously know about where the sun and moon are. This is particularly helpful when you are in a new area. Regardless of what biome you are in, the sun and moon will ascend in the East and Set in the West. Utilize this stunt to consistently know which bearing you are voyaging. ",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Follow.PNG"
+        },
+        {
+            "id": 4,
+            "title": "Get yourself some obsidian",
+            "content": "On the off chance that you need to arrive at the Nether rapidly, obsidian is the most ideal way to ensure you gather it as snappy as could reasonably be expected. You can at present form an entryway even without a pickaxe.",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Getyourself.PNG"
+        },
+        {
+            "id": 5,
+            "title": "Build multiple things at once",
+            "content": "You are not restricted to making each thing in turn. It is conceivable to construct a few crafts in one go which is an extraordinary efficient device. ",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Build.PNG"
+        },
+        {
+            "id": 6,
+            "title": "Try not to attempt to do excessively",
+            "content": "Try not to attempt to do a lot by running or bouncing, your yearning levels can increment quickly. You will at that point have the extra test of discovering more food to continue working which burns through valuable time and assets. ",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Try.PNG"
+        },
+        {
+            "id": 7,
+            "title": "Continuously watch out for your gear",
+            "content": "Continuously guarantee you have fundamental hardware in your stock, you will become more acquainted with rapidly what basics you need. Having these in your stock will give you true serenity and means you don’t need to get back to restock as frequently. You can likewise have to an extreme with regards to valuable assets.",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Continuously.PNG"
+        },
+        {
+            "id": 8,
+            "title": "Avoid skeletons",
+            "content": "In spite of the fact that there are a few crowds you ought to be careful about, the skeletons can cause the most issues, so attempt to evade these anyplace conceivable when you first beginning off in endurance mode. Skeletons are incredibly exact and can slaughter you rapidly so when you see one, run. ",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Avoid.PNG"
+        },
+        {
+            "id": 9,
+            "title": "Get experience score / Points",
+            "content": "In the event that you need to advance and start charming, you will require insight. You can pick up this experience through hordes, rearing, and mining certain materials, for example, coral, emerald, and under quartz. ",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Get.PNG"
         }
     ],
     "vehicles": [
