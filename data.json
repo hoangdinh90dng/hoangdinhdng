@@ -56,7 +56,8 @@
             ],
             "desc": "Arrows are the projectiles required to use a Bow or a Crossbow. They can either be crafted or gathered as loot.",
             "attribute": [
-               
+               "",
+               ""
             ],
             "type": "LAUNCHER"
         },
@@ -83,7 +84,8 @@
             ],
             "desc": "Axes are tools used to speed up the process of collecting wood-type blocks, some types of plants, and for stripping logs.",
             "attribute": [
-          
+               "",
+               ""
             ],
             "type": "LAUNCHER"
         },
@@ -110,7 +112,8 @@
             ],
             "desc": "A Bow is one of five weapons (the others being the sword, axe, crossbow, and trident) that can be crafted or found in Minecraft. It functions as the primary ranged weapon for the Player (and the only one, aside from Crossbows and Tridents that damages entities), giving them a preferred ranged method of attack over the sword.",
             "attribute": [
-               
+               "",
+               ""
             ],
             "type": "LAUNCHER"
         },
@@ -137,7 +140,8 @@
             ],
             "desc": "A Crossbow is a ranged weapon that functions similar to a bow but can remain charged even in your inventory. The crossbow has some additional features. It can only be enchanted with Multi-Shot, Quick Charge, and Piercing",
             "attribute": [
-               
+               "",
+               ""
             ],
             "type": "LAUNCHER"
         },
@@ -164,7 +168,8 @@
             ],
             "desc": "A hoe is a tool that is most commonly used for farming. When the player presses right-click (right trigger on console editions) on Dirt or Grass, the hoe plows that block into farmland. Players can plant seeds to grow Wheat, Melons, Pumpkins, and other crops on it. The hoe is the only tool that has inflicts the same damage no matter what material it is crafted from.",
             "attribute": [
-              
+               "",
+               ""
             ],
             "type": "LAUNCHER"
         },
@@ -191,6 +196,8 @@
             ],
             "desc": "The Shield is a Minecraft defensive tool that has replaced blocking with swords as of 1.9 for the Java Edition and 1.10 for the Bedrock Edition. Only one type of shield currently exists; however, it is possible to customize a shield using a banner only in Java Edition. Banner patterns are not proportionate to the shield, so the design will display on the shield differently than on the banner. Adding a banner pattern to a shield does not affect the function of the shield.",
             "attribute": [
+                "",
+                ""
              ],
             "type": "LAUNCHER"
         },
@@ -217,7 +224,8 @@
             ],
             "desc": "A shovel is a tool used to quickly destroy certain types of blocks.",
             "attribute": [
-              
+               "",
+               ""
             ],
             "type": "LAUNCHER"
         },
@@ -244,7 +252,8 @@
             ],
             "desc": "Swords are weapons that are primarily used to kill mobs or other players quicker than punching them with bare hands. They also remove some blocks faster than using a player's bare hands (such as leaves, vines, melons, and cobwebs). Each broken block counts as two uses on the sword's durability when used in this way.",
             "attribute": [
-          
+                "",
+                ""
             ],
             "type": "LAUNCHER"
         },
@@ -271,7 +280,8 @@
             ],
             "desc": "A Fire Charge is an item that was introduced in Minecraft 1.2.1. When right-clicked, the block selected will burn, even if it's not flammable, it is like flint and steel in a way. Fire charges may also be shot from a Dispenser, in which case it acts like a Blaze or Ghast fireball, flying in a straight line with random aim and placing fire to any block or entity it hits.",
             "attribute": [
-           
+                "",
+                ""
             ],
             "type": "LAUNCHER"
         }
