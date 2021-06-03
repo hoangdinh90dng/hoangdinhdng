@@ -154,13 +154,63 @@
     "vehicles": [
         {
             "id": 1,
-            "name": "Sports Car",
-            "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/vehicles/1.jpg",
-            "desc": "The Sports Car is probably the best looking vehicle in the game \u2013 and also the fastest. It can carry up to 2 players. Overall, this car is one of the top choices you could get in a solo match \u2013 it unrivaled speed could help you rotate to literally anywhere on the map without fail. The fact that it can reach top speed faster would also increase the damage it deals when you crash into people.",
-            "property1": 400,
-            "property2": 4600,
-            "property3": 20,
-            "property4": 80
+            "name": "Boat",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Boat.PNG",
+            "desc": "Overview:\nA boat is a vehicle and an item used for transporting a player across bodies of water or surfaces of ice.\n\n\nMechanics:\nTo mount a boat, a player must use the item. It can be exited by pressing the Sneak key, and, in Bedrock Edition, by pressing down the right analog stick, tapping on the Leave Boat button, or pressing the Jump key.\n\nWith a keyboard or gamepad, boats are controlled using the keyboard on computers, the left stick on consoles, or touchscreen buttons on mobile devices.",
+            "property1": 28.8,
+            "property2": 144.0,
+            "property3": 252.0,
+            "property4": 7.2
+        },
+        {
+            "id": 2,
+            "name": "Minecart with Furnace",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MinecartWithFurnaceNew.PNG",
+            "desc": "Overview:\nThe minecart with furnace (aka powered minecart) is a variation of the regular minecart, which can be used to push other minecarts along a rail system, if it's powered.\n\n\nMechanics:\nThe minecart with furnace accepts coal or charcoal for smelting. Fuel can be added by right-clicking on it while holding coal/charcoal. Doing this will cause it to travel along a rail, in the direction a player was facing when they added the fuel. As it moves along the rail, it will push any other minecarts along in front of it. Right-clicking it again will change its direction. It can travel along a rail for 3 minutes for each piece of coal/charcoal inside.\nWhen destroyed, it will give back a minecart and a furnace separately. However, any fuel that was still left inside, will be lost. It cannot be used to cook food or smelt ore, and players cannot ride in it.",
+            "property1": 36.6,
+            "property2": 170,
+            "property3": 352,
+            "property4": 8.2
+        },
+        {
+            "id": 3,
+            "name": "Minecart with Chest",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MinecartWithChestNew.PNG",
+            "desc": "Overview:\nMinecarts with Chests (also known as Storage Minecarts or Chest Minecarts) are Minecarts that cannot be ridden, but instead, they can store up to 27 stacks of items and blocks, just like a regular Chest. Items can be placed in or taken out of a storage minecart through the use of a Hopper, but not surprisingly, by a Minecart with Hopper. Minecarts with chests can be accessed at any time when a player is in range, and there is not a solid block between them and the minecart, even if there is a block above the minecart. A minecart with chest won't show the opening animation/sound as regular chests do.\n\n\nUsage:\nMinecarts with chests can be used to store items without anybody seeing - "hiding" the item - or simply used, for example, to add Books to a "library." This is done with: any block of a player's choice, a minecart with chest, a Button, a Piston, and a Rail. For the block of a player's choice, use a Bookshelf. First, delete a vertical row of 2 blocks (do NOT destroy the block that touches the ground). Put a rail on the block and then place the minecart.\nDestroy the block that was placed on the rail and minecart on top of it. The minecart will fall down and the rail will be destroyed (remember: the minecart will turn around when the block is destroyed, so it's recommended that the rail is facing towards the direction that a player was looking). Next, place down a piston looking down and insert a button on the block nearest to the piston. Then, place the bookshelf under the piston and press the button. The bookshelf will go through the minecart. Now, destroy the piston and place down bookshelves to fill the empty spaces.\nNote that, if the minecart switches direction away from the direction a player was looking at, then a part of the minecart will show up when the button pushed, and that will show everyone else where the minecart is, so it's highly suggested to make sure the minecart isn't looking vertically",
+            "property1": 40.2,
+            "property2": 195,
+            "property3": 386,
+            "property4": 9.6
+        },
+        {
+            "id": 4,
+            "name": "Minecart with TNT",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MinecartWithTNTNew.PNG",
+            "desc": "Overview:\nA Minecart with TNT is used to blow up blocks in moderation. When it explodes, it will not destroy any rails beneath it as well as any blocks that the rails are on. They will blow up if they go over an active activator rail, with an explosion delay of 4 seconds; however, they can also be detonated by shooting flaming arrows or other fire sources at them, getting attacked while moving, it falls 3 blocks, or it takes a sharp turn next to a block. Minecarts with TNT are often banned from servers since it is a good way for griefers to destroy mines or roads with rails.",
+            "property1": 41.6,
+            "property2": 197,
+            "property3": 395,
+            "property4": 9.8
+        },
+        {
+            "id": 5,
+            "name": "Minecart with Hopper",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MinecartWithHopperNew.PNG",
+            "desc": "Overview:\nThe Minecart with Hopper (or Hopper Minecart) is a Minecart that has a hopper inside of it. It can pick up items and take items out of the storage above itself.\n\n\nUsage:\nA minecart with hopper will travel along rails like any minecart; however, any nearby items will be pulled into its inventory. It will also pull items from storage above itself; however, it does this 7.4 times faster than a regular hopper, which will push items into the hopper minecart if its orientation is correct. While a minecart with hopper will not push items into containers unless it goes into a chest, hoppers will pull items from any hopper minecart that it can.\nIf a minecart with hopper goes over a powered Activator Rail, it will lose its abilities, and if it goes over an unpowered activator rail, it will regain its abilities. The exception is that hoppers can still push and pull items to and from a minecart with hopper. When it is on a Detector Rail, a Redstone Comparator can detect the cart's capacity the same way it detects the fullness of a regular hopper or any other block that contains items.",
+            "property1": 45.2,
+            "property2": 203,
+            "property3": 405,
+            "property4": 10.3
+        },
+        {
+            "id": 6,
+            "name": "Minecart with Command Block",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MinecartWithCommandBlockNew.PNG",
+            "desc": "Overview:\nThe Minecart with Command Block (also known as Command Block Minecart) is a type of Minecart found in Minecraft. This type of minecart is a command block and a minecart combined\nMuch like regular Command Blocks, the minecart with command block is only obtainable by using either /give @p command_block_minecart or external tools. It can also be obtained via /summon, like the other different types of minecarts. However, unlike the other minecart types, command block minecarts cannot be crafted in vanilla Minecraft.\n\n\nUses:\nThis can be used as a command block on the go. The minecart with command block is used to run commands and travel. It can be more useful than a command block in some situations, and less useful in others. For example, a benefit of command block minecarts is that one does not need to give it input from a Clock circuit; for as long as it is powered, it will repeatedly run the command, once every four game ticks (five times per second). Relative coordinates can be very useful in minecart command block commands. For example, giving the XYZ as 6, 2, 0 (without the quote marks) means the block that is 6 South and 2 up from the minecart's current location. Since the minecart's location is constantly changing, a setblock command using relative coordinates can draw a wall (poorly and with gaps). The ID of the command block itself is command_block_minecart.",
+            "property1": 47.8,
+            "property2": 245,
+            "property3": 455,
+            "property4": 11.1
         }
     ],
     "recipes": 
