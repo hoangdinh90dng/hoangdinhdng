@@ -191,7 +191,7 @@
             ],
             "desc": "The Shield is a Minecraft defensive tool that has replaced blocking with swords as of 1.9 for the Java Edition and 1.10 for the Bedrock Edition. Only one type of shield currently exists; however, it is possible to customize a shield using a banner only in Java Edition. Banner patterns are not proportionate to the shield, so the design will display on the shield differently than on the banner. Adding a banner pattern to a shield does not affect the function of the shield.",
             "attribute": [
-             
+             ],
             "type": "LAUNCHER"
         },
         {
