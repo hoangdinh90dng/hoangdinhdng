@@ -35,8 +35,36 @@
     "weapons": [
         {
             "id": 1,
-            "name": "RGS50",
-            "image": "https://nextgent.s3.us-west-1.amazonaws.com/ff/weapons/1.jpg",
+            "name": "Arrow",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/WArrow.PNG",
+            "dan": 3,
+            "property1": 64,
+            "property2": 9,
+            "property3": 12,
+            "property4": 4,
+            "property5": 55,
+            "property6": 0,
+            "property7": 34,
+            "property8": 24,
+            "attachable": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "desc": "Arrows are the projectiles required to use a Bow or a Crossbow. They can either be crafted or gathered as loot.",
+            "attribute": [
+                "",
+                ""
+            ],
+            "type": "LAUNCHER"
+        },
+        {
+            "id": 2,
+            "name": "Axe",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Waxe.PNG",
             "dan": 3,
             "property1": 90,
             "property2": 100,
@@ -54,7 +82,203 @@
                 false,
                 false
             ],
-            "desc": "The anti-materiel Launcher (AML) can lock on to vehicles. However, it does less damage to non-vehicle units.",
+            "desc": "Axes are tools used to speed up the process of collecting wood-type blocks, some types of plants, and for stripping logs.",
+            "attribute": [
+                "AREA OF EFFECT",
+                "RARE"
+            ],
+            "type": "LAUNCHER"
+        },
+        {
+            "id": 3,
+            "name": "Bow",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Wbow.PNG",
+            "dan": 3,
+            "property1": 90,
+            "property2": 100,
+            "property3": 3,
+            "property4": 65,
+            "property5": 65,
+            "property6": 65,
+            "property7": 65,
+            "property8": 65,
+            "attachable": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "desc": "A Bow is one of five weapons (the others being the sword, axe, crossbow, and trident) that can be crafted or found in Minecraft. It functions as the primary ranged weapon for the Player (and the only one, aside from Crossbows and Tridents that damages entities), giving them a preferred ranged method of attack over the sword.",
+            "attribute": [
+                "AREA OF EFFECT",
+                "RARE"
+            ],
+            "type": "LAUNCHER"
+        },
+        {
+            "id": 4,
+            "name": "Crossbow",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/WCrossbow.PNG",
+            "dan": 3,
+            "property1": 90,
+            "property2": 100,
+            "property3": 3,
+            "property4": 65,
+            "property5": 65,
+            "property6": 65,
+            "property7": 65,
+            "property8": 65,
+            "attachable": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "desc": "A Crossbow is a ranged weapon that functions similar to a bow but can remain charged even in your inventory. The crossbow has some additional features. It can only be enchanted with Multi-Shot, Quick Charge, and Piercing",
+            "attribute": [
+                "AREA OF EFFECT",
+                "RARE"
+            ],
+            "type": "LAUNCHER"
+        },
+        {
+            "id": 5,
+            "name": "Hoe",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Whoe.PNG",
+            "dan": 3,
+            "property1": 90,
+            "property2": 100,
+            "property3": 3,
+            "property4": 65,
+            "property5": 65,
+            "property6": 65,
+            "property7": 65,
+            "property8": 65,
+            "attachable": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "desc": "A hoe is a tool that is most commonly used for farming. When the player presses right-click (right trigger on console editions) on Dirt or Grass, the hoe plows that block into farmland. Players can plant seeds to grow Wheat, Melons, Pumpkins, and other crops on it. The hoe is the only tool that has inflicts the same damage no matter what material it is crafted from.",
+            "attribute": [
+                "AREA OF EFFECT",
+                "RARE"
+            ],
+            "type": "LAUNCHER"
+        },
+        {
+            "id": 6,
+            "name": "Shield",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/WShield.PNG",
+            "dan": 3,
+            "property1": 90,
+            "property2": 100,
+            "property3": 3,
+            "property4": 65,
+            "property5": 65,
+            "property6": 65,
+            "property7": 65,
+            "property8": 65,
+            "attachable": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "desc": "The Shield is a Minecraft defensive tool that has replaced blocking with swords as of 1.9 for the Java Edition and 1.10 for the Bedrock Edition. Only one type of shield currently exists; however, it is possible to customize a shield using a banner only in Java Edition. Banner patterns are not proportionate to the shield, so the design will display on the shield differently than on the banner. Adding a banner pattern to a shield does not affect the function of the shield.",
+            "attribute": [
+                "AREA OF EFFECT",
+                "RARE"
+            ],
+            "type": "LAUNCHER"
+        },
+        {
+            "id": 7,
+            "name": "Shovel",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Wshovel.PNG",
+            "dan": 3,
+            "property1": 90,
+            "property2": 100,
+            "property3": 3,
+            "property4": 65,
+            "property5": 65,
+            "property6": 65,
+            "property7": 65,
+            "property8": 65,
+            "attachable": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "desc": "A shovel is a tool used to quickly destroy certain types of blocks.",
+            "attribute": [
+                "AREA OF EFFECT",
+                "RARE"
+            ],
+            "type": "LAUNCHER"
+        },
+        {
+            "id": 8,
+            "name": "Sword",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/WSword.PNG",
+            "dan": 3,
+            "property1": 90,
+            "property2": 100,
+            "property3": 3,
+            "property4": 65,
+            "property5": 65,
+            "property6": 65,
+            "property7": 65,
+            "property8": 65,
+            "attachable": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "desc": "Swords are weapons that are primarily used to kill mobs or other players quicker than punching them with bare hands. They also remove some blocks faster than using a player's bare hands (such as leaves, vines, melons, and cobwebs). Each broken block counts as two uses on the sword's durability when used in this way.",
+            "attribute": [
+                "AREA OF EFFECT",
+                "RARE"
+            ],
+            "type": "LAUNCHER"
+        },
+        {
+            "id": 9,
+            "name": "Fire Charge",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/WFire.PNG",
+            "dan": 3,
+            "property1": 90,
+            "property2": 100,
+            "property3": 3,
+            "property4": 65,
+            "property5": 65,
+            "property6": 65,
+            "property7": 65,
+            "property8": 65,
+            "attachable": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "desc": "A Fire Charge is an item that was introduced in Minecraft 1.2.1. When right-clicked, the block selected will burn, even if it's not flammable, it is like flint and steel in a way. Fire charges may also be shot from a Dispenser, in which case it acts like a Blaze or Ghast fireball, flying in a straight line with random aim and placing fire to any block or entity it hits.",
             "attribute": [
                 "AREA OF EFFECT",
                 "RARE"
