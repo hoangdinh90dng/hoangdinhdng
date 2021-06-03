@@ -56,8 +56,7 @@
             ],
             "desc": "Arrows are the projectiles required to use a Bow or a Crossbow. They can either be crafted or gathered as loot.",
             "attribute": [
-                "",
-                ""
+               
             ],
             "type": "LAUNCHER"
         },
@@ -68,12 +67,12 @@
             "dan": 3,
             "property1": 90,
             "property2": 100,
-            "property3": 3,
+            "property3": 120,
             "property4": 65,
-            "property5": 65,
-            "property6": 65,
-            "property7": 65,
-            "property8": 65,
+            "property5": 0,
+            "property6": 0,
+            "property7": 98,
+            "property8": 85,
             "attachable": [
                 false,
                 false,
@@ -84,8 +83,7 @@
             ],
             "desc": "Axes are tools used to speed up the process of collecting wood-type blocks, some types of plants, and for stripping logs.",
             "attribute": [
-                "AREA OF EFFECT",
-                "RARE"
+          
             ],
             "type": "LAUNCHER"
         },
