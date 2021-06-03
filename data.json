@@ -155,7 +155,7 @@
         {
             "id": 1,
             "name": "Boat",
-            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/Boat.PNG",
+            "image": "https://hoangdinh90dng.github.io/hoangdinhdng/image/MinecartWithBoat.PNG",
             "desc": "Overview:\nA boat is a vehicle and an item used for transporting a player across bodies of water or surfaces of ice.\n\n\nMechanics:\nTo mount a boat, a player must use the item. It can be exited by pressing the Sneak key, and, in Bedrock Edition, by pressing down the right analog stick, tapping on the Leave Boat button, or pressing the Jump key.\n\nWith a keyboard or gamepad, boats are controlled using the keyboard on computers, the left stick on consoles, or touchscreen buttons on mobile devices.",
             "property1": 28,
             "property2": 144,
